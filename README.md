@@ -106,7 +106,7 @@ class DemoForm(forms.Form):
 ```
 
 # Reference
-1. http://www.abclinuxu.cz/blog/bloK/2008/10/kontrola-ic, http://latrine.dgx.cz/jak-overit-platne-ic-a-rodne-cislo
+1. http://www.abclinuxu.cz/blog/bloK/2008/10/kontrola-ic, http://phpfashion.com/jak-overit-platne-ic-a-rodne-cislo
 
 # Technické informace
 
